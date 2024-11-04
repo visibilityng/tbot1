@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: url(./img/bg3.jpg);
+	background-repeat: no-repeat;
+	font-family: Helvetica, Ariel, sans-serif;
+}
+a{
+	text-decoration: none;
+	font-size: 14px;
+	font-family: "Segoe UI Webfont",-apple-system,"Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+	 
+}
+input{
+	height: 35px;
+}
+h1{
+	font-weight: lighter;
+	font-size: 20px;
+	color: #404040FF;
+	margin-top: 20px;
+}
+p{
+	font-size: 14px;
+}
+button{
+	margin-top: 25px;
+	border: none;
+	background: #006EBCFF;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+}
+button:hover{
+	background: #0079D1FF;
+}
+input [type="checkbox"]{
+
+}
+#phase1 button{
+	width: 363px;
+	height: 40px;
+	margin-bottom: 20px;
+}
+#phase2 button{
+	width: 179px;
+	height: 40px;
+	margin-
+}
+#fd-body{
+	background: #000000B6;
+	width: 100%;
+	height: 100%;
+}
+#phase1,#phase2,#float-box img{ 
+	margin: 0;
+	padding: 0;
+}
+#float-box img{
+	margin-bottom: 10px;
+}
+#float-box{
+	height: 360px;
+	width: 410px;
+	background: #fff;
+	color:#000;
+	position: absolute;
+	left: 35%;
+	bottom: 25%;
+	padding: 0;
+	margin: 0;
+}
+#multiphase{
+	padding: 0;
+	margin: 0;
+	background: 
+}
+#user{
+	width: 365px;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	background: #E5E5E5FF;
+}
+#user img{
+	margin-top: -10px;
+	float: right;
+}
+#footer{
+	background: #000000BD;
+}
+#footer-div{
+	width: 450px;
+	height: 
+
+}
