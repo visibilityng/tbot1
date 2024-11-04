@@ -1,0 +1,8 @@
+Azbug Tool Scanner ⚡️
+Azbug is an awsome tool which is made with python 2 that is switching your manual recon (Discovering, scanning, fuzzing and full recon methodology and more ...) into an automated one, which makes your bug hunting and your life much easier.
+⚡️Usage :
+
+pip install -r requirements.txt OR pip2 install dnspython
+python azbug.py
+
+November 3, 2023
